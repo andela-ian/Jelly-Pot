@@ -1,4 +1,4 @@
-# Jelly-Pot
+# Jelly-Pot :construction:
 A cheat sheet blog for posting general life hacks
 
 ### Project Structure
