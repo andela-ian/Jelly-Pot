@@ -4,14 +4,15 @@ A cheat sheet blog for posting general life hacks
 ### Project Structure
 
     Jelly-Pot
-    |__ models
+    |__ app.py
     |__ static
     |__ templates 
         |__ index.html
         |__ profile.html
         |__ post.html
         |__ view_posts.html
-    |__ app.py
+    |__venv
+    |__ __init__.py
  
 ### Resources
 * Fonts - [Google Fonts](https://fonts.google.com/)
