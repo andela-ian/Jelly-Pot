@@ -1,15 +1,14 @@
-html, body {
-	color: green;
-}
+
 .navbar-brand {
 	font-size: 30px;
 	padding-left: 150px;
-	padding-top: 25px;
 }
 
 body {
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
 	font-color: white;
+	background-image: url(../images/bg.jpg);
+	background-size: cover;
 }
 
 .grey {
@@ -18,5 +17,12 @@ body {
 
 .navbar-right {
 	padding-right: 150px;
-	padding-top: 5px;
+	font-size: 20px;
 }
+
+.navbar { 
+	border-bottom: 1px solid #C9C9C9;
+	background-color: white;
+}
+
+
