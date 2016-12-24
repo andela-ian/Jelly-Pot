@@ -13,6 +13,7 @@ A cheat sheet blog for posting general life hacks
         |__ view_posts.html
     |__venv
     |__ __init__.py
+    |__ requirements.txt
  
 ### Resources
 * Fonts - [Google Fonts](https://fonts.google.com/)
