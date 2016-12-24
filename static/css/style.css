@@ -1,3 +1,6 @@
+html, body {
+	color: green;
+}
 .navbar-brand {
 	font-size: 30px;
 	padding-left: 150px;
@@ -6,7 +9,7 @@
 
 body {
 	font-family: 'Josefin Sans', sans-serif;
-	font-color: #33ff33;
+	font-color: white;
 }
 
 .grey {
